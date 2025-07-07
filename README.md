@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bharthos
 - 👀 I’m interested in programming, sports, 
-- 🌱 I have learned C and C++, HTML, MySQL. 
-- 🌱 I’m currently learning Java, Java Script, Python, CSS
+- 🌱 I have learned C and C++, HTML, MySQL, Java, JavaScript, Python.
+- 🌱 I’m currently learning Kotlin.
 - 💞️ I’m looking to collaborate on developing or testing softwares.
 - 📫 How to reach me?? You can reach me on my email bharthos8@gmail.com.
 
